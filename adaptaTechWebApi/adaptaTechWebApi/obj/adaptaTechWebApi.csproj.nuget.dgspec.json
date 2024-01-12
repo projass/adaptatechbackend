@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj": {}
+  },
+  "projects": {
+    "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj",
+        "projectName": "adaptaTechWebApi",
+        "projectPath": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj",
+        "packagesPath": "C:\\Users\\Paxhias\\.nuget\\packages\\",
+        "outputPath": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paxhias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

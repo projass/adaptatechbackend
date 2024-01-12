@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nU0z5LDRTyEgjMbUUWvdL+dxpiWcqiw/w085Sx/z/z0Ai+liJ6fLekZT9rCEQ8feor/IO8O78+GVBCzrbIrww==",
+  "success": true,
+  "projectFilePath": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paxhias\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Paxhias\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Paxhias\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Paxhias\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Paxhias\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Paxhias\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

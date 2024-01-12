@@ -1,0 +1,6 @@
+@adaptaTechWebApi_HostAddress = http://localhost:5209
+
+GET {{adaptaTechWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

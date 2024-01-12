@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj": {}
+    "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\PROYECTO FINAL\\EJEMPLOPROYECTO\\CARPETA DEL REPOSITORIO\\Backend\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj": {}
   },
   "projects": {
-    "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj": {
+    "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\PROYECTO FINAL\\EJEMPLOPROYECTO\\CARPETA DEL REPOSITORIO\\Backend\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj",
+        "projectUniqueName": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\PROYECTO FINAL\\EJEMPLOPROYECTO\\CARPETA DEL REPOSITORIO\\Backend\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj",
         "projectName": "adaptaTechWebApi",
-        "projectPath": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj",
+        "projectPath": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\PROYECTO FINAL\\EJEMPLOPROYECTO\\CARPETA DEL REPOSITORIO\\Backend\\adaptaTechWebApi\\adaptaTechWebApi\\adaptaTechWebApi.csproj",
         "packagesPath": "C:\\Users\\Paxhias\\.nuget\\packages\\",
-        "outputPath": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\ASP.NET Core\\adaptaTechWebApi\\adaptaTechWebApi\\obj\\",
+        "outputPath": "E:\\FUNDOSA\\Curso 3 Desarrollo .NET\\PROYECTO FINAL\\EJEMPLOPROYECTO\\CARPETA DEL REPOSITORIO\\Backend\\adaptaTechWebApi\\adaptaTechWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paxhias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
